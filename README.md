@@ -6,6 +6,5 @@ This data analysis project aims to provide insights into the Ola booking perform
 
 ###Tools Used
 
-- Excel - Data cleaning
 - MySql - Data analysis
 - PowerBi - Creating reports
